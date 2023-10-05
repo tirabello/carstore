@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GIT.iml" filepath="$PROJECT_DIR$/.idea/GIT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/carstore/carstore.iml" filepath="$PROJECT_DIR$/carstore/carstore.iml" />
     </modules>
   </component>
 </project>

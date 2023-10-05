@@ -9,8 +9,5 @@
         <module name="carstore" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="carstore" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
